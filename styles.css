@@ -1,11 +1,11 @@
 body {
     text-align: center;
-    background-color: rgb(114, 213, 195);
+    background-color: rgb(214, 101, 164);
 }
 
 h1 {
     font-family: Pacifico;
-    font-size: 100px;
+    font-size: 80px;
     margin: 0em;
     color: black;
 }
@@ -39,4 +39,9 @@ td {
 
 input[type=number] {
     width: 6em;
+}
+
+;
+#pixelCanvas {
+    background-color: black !important; 
 }
