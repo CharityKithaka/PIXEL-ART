@@ -3,7 +3,7 @@
 
 #### An art of pixel in JavaScript, 30/06/2018
 
-#### By **James NJenga**
+#### By **Charity Kithaka**
 
 ## Description
 The pixel-art is written with JavaScript to practice JavaScript and JQuery.
@@ -32,4 +32,4 @@ Email : shikez17@gmail.com
 
 ### License
 *MIT*
-Copyright (c) 2018 **James Njenga**
+Copyright (c) 2018 **Charity Kithaka**
